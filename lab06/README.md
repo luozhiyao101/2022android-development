@@ -1,6 +1,6 @@
 lesson 9 Badge
 
-![image](https://raw.githubusercontent.com/luozhiyao101/2022android-development/main/lab06/lesson9 badge.png)
+![image](https://raw.githubusercontent.com/luozhiyao101/2022android-development/main/lab06/badge.png)
 
 运行时截图
 
